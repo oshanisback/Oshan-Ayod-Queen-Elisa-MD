@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94701362163'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94701362163'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94701362163'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '꧁💜𝕠𝕤𝕙𝕒𝕟 𝕒𝕪𝕠𝕕💜꧂' // Your name ඔබේ නම 
+global.botnma = '𝘚𝘓 සුදු මැණික 💜 𝘝𝘐𝘕𝘋𝘠𝘈 💜...' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '꧁💜𝕠𝕤𝕙𝕒𝕟 𝕒𝕪𝕠𝕕💜꧂' //ownernama,ownername
+global.packname = '💜..𝘛𝘏𝘈𝘎 𝘓𝘐𝘍𝘌..💜..𝘼𝙇𝙒𝘼𝙔𝙎 𝙃𝘼𝙋𝙋𝙔..💜' // Sticker package name 
+global.author = '𝙼𝚁 💜𝚅𝙸𝙽𝙳𝚈𝙰💜 𝙾𝙵𝙲' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -50,7 +50,7 @@ global.alive =`Hello i am alive now
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome =💜𝗤𝗨𝗘𝗘𝗡 𝗩𝗜𝗡𝗗𝗬𝗔💜`
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
